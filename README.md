@@ -11,7 +11,9 @@ I am a passionate and dedicated web developer with a strong foundation in PHP, M
 
 I thrive in collaborative environments and excel in communication, ensuring seamless project execution and stakeholder satisfaction. My technical expertise is complemented by strong interpersonal abilities, making me an effective team player and leader.
 
-Im currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/drive/folders/1ffFac-E01qQEMDkGoRdDJeSleiu1G-1E?usp=sharing)
+Im currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/drive/folders/1ffFac-E01qQEMDkGoRdDJeSleiu1G-1E)
+
+
 ---
 
 ## 🌟 Skills
