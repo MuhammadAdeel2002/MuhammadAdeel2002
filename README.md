@@ -1,6 +1,3 @@
-Sure, here’s a well-structured and engaging README file for your GitHub profile:
-
----
 
 # Muhammad Adeel
 
