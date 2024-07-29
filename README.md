@@ -59,9 +59,8 @@ I thrive in collaborative environments and excel in communication, ensuring seam
 
 ## 🚀 Let's Connect
 
-- **Email**: 
-- **LinkedIn**: 
-- **GitHub**: 
+- **Email**: adeel.numl.se@gmail.com
+- **LinkedIn**: www.linkedin.com/in/muhammadadeelnumlse024
 I am always open to new opportunities and collaborations. Let's connect and explore how we can work together to create exceptional web experiences.
 
 ---
